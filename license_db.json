@@ -3,6 +3,10 @@
     "0e1ddffa15cbf99dc2a6f626a9f414ec826620372df17954038950d43bf544bf": {
       "status": "active",
       "expire": "2099-12-30"
+    },
+    "b23a6a8439c0dde5515893e7c90c1e3233b8616e634470f20dc4928bcf3609bc": {
+      "status": "active",
+      "expire": "2099-12-30"
     }
   }
 }
