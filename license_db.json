@@ -1,9 +1,5 @@
 {
   "users": {
-    "02f058e86e2aaa1c17899ab4722e748e70aa81030069e79624f5161c10a7e345": {
-      "status": "active",
-      "expire": "2099-12-30"
-    },
     "cc04619403a4963b2e965cdabe1aa46890b60ae32a547da86a7ec9a9567d145d": {
       "status": "active",
       "expire": "2099-12-30"
