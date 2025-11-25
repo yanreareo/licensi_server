@@ -7,6 +7,10 @@
     "a2f3c6480924d430d2ab7a10e563e501130ed6ca89029d2e01bc4e62fc7c702f": {
       "status": "active",
       "expire": "2099-12-30"
+    },
+    "0bc43ee10f68be01161ddb2fc3614d38b04e8e994b720411b4f9509456c4373e": {
+      "status": "active",
+      "expire": "2099-12-30"
     }
   }
 }
