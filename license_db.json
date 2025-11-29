@@ -59,6 +59,10 @@
     "d5e18cb27ea8ff76ed4c4623d9dcb5c63c7403069aaaf5ac5202f2cadd252bd1": {
       "status": "active",
       "expire": "2099-12-30"
+    },
+    "5059367e14be04166addbee0844b4625f4d0d572a95b47628a051580dee4feee": {
+      "status": "active",
+      "expire": "2099-12-30"
     }
   }
 }
